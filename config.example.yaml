@@ -1,0 +1,9 @@
+# Example config for vwap bot (optional alternative to .env)
+symbol: BTCUSD
+timeframe_minutes: 60
+sma_length: 20
+dry_run: true
+order_size_usd: 10.0
+position_lots: 2
+webapi_url: https://api.delta.exchange
+base_currency: USD
